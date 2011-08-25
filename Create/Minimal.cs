@@ -8,7 +8,7 @@ using DocumentFormat.OpenXml.Spreadsheet;
 
 namespace SpreadsheetMLTools.CreateCreate
 {
-    public class MostlyGeneratedClass
+    public class MostlyGeneratedClass  
     {
         // Creates a SpreadsheetDocument
         public void CreatePackage(string filePath)
