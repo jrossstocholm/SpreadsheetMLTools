@@ -6,7 +6,7 @@ using DocumentFormat.OpenXml;
 using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Spreadsheet;
 
-namespace Create
+namespace SpreadsheetMLTools.CreateCreate
 {
     public class MostlyGeneratedClass
     {
